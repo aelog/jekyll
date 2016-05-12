@@ -109,13 +109,14 @@ front matter of a page or post.
           the post will act as though it had been set with these categories
           normally. Categories (plural key) can be specified as a <a
           href="https://en.wikipedia.org/wiki/YAML#Lists">YAML list</a> or a
-          comma-separated string.
+          space-separated string.
 
         </p>
       </td>
     </tr>
     <tr>
       <td>
+        <p style="margin-bottom: 5px;"><code>tag</code></p>
         <p><code>tags</code></p>
       </td>
       <td>
@@ -123,7 +124,7 @@ front matter of a page or post.
 
           Similar to categories, one or multiple tags can be added to a post.
           Also like categories, tags can be specified as a YAML list or a
-          comma-separated string.
+          space-separated string.
 
         </p>
       </td>
